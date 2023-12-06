@@ -1,0 +1,834 @@
+[
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\FastNoiseGenerator\\FastNoiseGenerator.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoiseGenerator.3.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\FastNoiseGenerator\\Private\\FastNoiseGenerator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoiseGenerator.3.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\FastNoiseGenerator\\Private\\FastNoiseWrapper.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoiseGenerator.3.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\FastNoiseGenerator\\Public\\FastNoiseGenerator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoiseGenerator.3.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\FastNoiseGenerator\\Public\\FastNoiseWrapper.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoiseGenerator.3.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\ThirdParty\\FastNoise\\FastNoise.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoise.2.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\ThirdParty\\FastNoise\\LICENSE.txt",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoise.2.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\ThirdParty\\FastNoise\\Private\\FastNoise.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoise.2.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\ThirdParty\\FastNoise\\Private\\FastNoiseModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoise.2.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\ThirdParty\\FastNoise\\Public\\FastNoise.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoise.2.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\FastNoiseGenerator\\Source\\ThirdParty\\FastNoise\\Public\\FastNoiseModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FastNoise.2.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ClipboardImageExtension\\ClipboardImageExtension.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ClipboardImageExtension.13.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ClipboardImageExtension\\Private\\ClipboardImageExtension\\ClipboardImageExtensionModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ClipboardImageExtension.13.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ClipboardImageExtension\\Private\\ClipboardImageExtension\\Windows\\WindowsClipboardImageExtension.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ClipboardImageExtension.13.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ClipboardImageExtension\\Public\\ClipboardImageExtension\\GenericPlatform\\GenericClipboardImageExtension.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ClipboardImageExtension.13.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ClipboardImageExtension\\Public\\ClipboardImageExtension\\HAL\\ClipboardImageExtension.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ClipboardImageExtension.13.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ClipboardImageExtension\\Public\\ClipboardImageExtension\\Windows\\WindowsClipboardImageExtension.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ClipboardImageExtension.13.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\GenericGraphPrinter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Private\\GenericGraphPrinter\\GenericGraphPrinterModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Private\\GenericGraphPrinter\\Types\\PrintGraphOptions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Private\\GenericGraphPrinter\\Utilities\\GenericGraphPrinterSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Private\\GenericGraphPrinter\\Utilities\\GenericGraphPrinterUtils.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Private\\GenericGraphPrinter\\WidgetPrinters\\GenericGraphPrinter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Public\\GenericGraphPrinter\\Types\\PrintGraphOptions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Public\\GenericGraphPrinter\\Utilities\\GenericGraphPrinterSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Public\\GenericGraphPrinter\\Utilities\\GenericGraphPrinterUtils.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Public\\GenericGraphPrinter\\WidgetPrinters\\GenericGraphPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GenericGraphPrinter\\Public\\GenericGraphPrinter\\WidgetPrinters\\InnerGenericGraphPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GenericGraphPrinter.6.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\GraphPrinterEditorExtension.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\CommandActions\\GraphPrinterCommandActions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\CommandActions\\GraphPrinterCommandActions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\CommandActions\\GraphPrinterCommands.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\GraphPrinterEditorExtensionModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\UIExtensions\\StreamDeckMenu.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\UIExtensions\\StreamDeckMenu.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\UIExtensions\\ToolMenuExtender.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\UIExtensions\\ToolMenuExtender.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\UIExtensions\\ToolbarExtender.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\UIExtensions\\ToolbarExtender.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\Utilities\\GraphPrinterEditorExtensionSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Private\\GraphPrinterEditorExtension\\Utilities\\GraphPrinterStyle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Public\\GraphPrinterEditorExtension\\CommandActions\\GraphPrinterCommands.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Public\\GraphPrinterEditorExtension\\Utilities\\GraphPrinterEditorExtensionSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterEditorExtension\\Public\\GraphPrinterEditorExtension\\Utilities\\GraphPrinterStyle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterEditorExtension.10.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterGlobals\\GraphPrinterGlobals.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterGlobals.4.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterGlobals\\Private\\GraphPrinterGlobals\\GraphPrinterGlobalsModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterGlobals.4.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterGlobals\\Private\\GraphPrinterGlobals\\Utilities\\GraphPrinterSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterGlobals.4.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterGlobals\\Private\\GraphPrinterGlobals\\Utilities\\GraphPrinterUtils.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterGlobals.4.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterGlobals\\Public\\GraphPrinterGlobals\\GraphPrinterGlobals.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterGlobals.4.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterGlobals\\Public\\GraphPrinterGlobals\\Utilities\\GraphPrinterSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterGlobals.4.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterGlobals\\Public\\GraphPrinterGlobals\\Utilities\\GraphPrinterUtils.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterGlobals.4.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterRemoteControl\\GraphPrinterRemoteControl.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterRemoteControl.11.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterRemoteControl\\Private\\GraphPrinterRemoteControl\\GraphPrinterRemoteControlModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterRemoteControl.11.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterRemoteControl\\Private\\GraphPrinterRemoteControl\\Utilities\\GraphPrinterRemoteControlSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterRemoteControl.11.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterRemoteControl\\Private\\GraphPrinterRemoteControl\\WebSockets\\GraphPrinterRemoteControlReceiver.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterRemoteControl.11.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterRemoteControl\\Private\\GraphPrinterRemoteControl\\WebSockets\\GraphPrinterRemoteControlReceiver.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterRemoteControl.11.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\GraphPrinterRemoteControl\\Public\\GraphPrinterRemoteControl\\Utilities\\GraphPrinterRemoteControlSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\GraphPrinterRemoteControl.11.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\MaterialGraphPrinter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Private\\MaterialGraphPrinter\\MaterialGraphPrinterModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Private\\MaterialGraphPrinter\\Types\\PrintMaterialGraphOptions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Private\\MaterialGraphPrinter\\Utilities\\MaterialGraphPrinterSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Private\\MaterialGraphPrinter\\WidgetPrinters\\InnerMaterialGraphPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Private\\MaterialGraphPrinter\\WidgetPrinters\\MaterialGraphPrinter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Public\\MaterialGraphPrinter\\Types\\MaterialGraphExportMethod.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Public\\MaterialGraphPrinter\\Types\\PrintMaterialGraphOptions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Public\\MaterialGraphPrinter\\Utilities\\MaterialGraphPrinterSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\MaterialGraphPrinter\\Public\\MaterialGraphPrinter\\WidgetPrinters\\MaterialGraphPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\MaterialGraphPrinter.9.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\PreviewViewportPrinter\\PreviewViewportPrinter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\PreviewViewportPrinter.8.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\PreviewViewportPrinter\\Private\\PreviewViewportPrinter\\PreviewViewportPrinterModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\PreviewViewportPrinter.8.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\PreviewViewportPrinter\\Private\\PreviewViewportPrinter\\WidgetPrinters\\InnerPreviewViewportPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\PreviewViewportPrinter.8.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\PreviewViewportPrinter\\Private\\PreviewViewportPrinter\\WidgetPrinters\\PreviewViewportPrinter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\PreviewViewportPrinter.8.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\PreviewViewportPrinter\\Public\\PreviewViewportPrinter\\WidgetPrinters\\PreviewViewportPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\PreviewViewportPrinter.8.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ReferenceViewerPrinter\\Private\\ReferenceViewerPrinter\\ReferenceViewerPrinterModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ReferenceViewerPrinter.7.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ReferenceViewerPrinter\\Private\\ReferenceViewerPrinter\\WidgetPrinters\\InnerReferenceViewerPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ReferenceViewerPrinter.7.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ReferenceViewerPrinter\\Private\\ReferenceViewerPrinter\\WidgetPrinters\\ReferenceViewerPrinter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ReferenceViewerPrinter.7.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ReferenceViewerPrinter\\Private\\ReferenceViewerPrinter\\WidgetPrinters\\ReferenceViewerPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ReferenceViewerPrinter.7.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\ReferenceViewerPrinter\\ReferenceViewerPrinter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\ReferenceViewerPrinter.7.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\TextChunkHelper\\Private\\TextChunkHelper\\Png\\PngTextChunk.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\TextChunkHelper.12.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\TextChunkHelper\\Private\\TextChunkHelper\\Png\\PngTextChunk.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\TextChunkHelper.12.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\TextChunkHelper\\Private\\TextChunkHelper\\TextChunkHelperModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\TextChunkHelper.12.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\TextChunkHelper\\Public\\TextChunkHelper\\ITextChunk.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\TextChunkHelper.12.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\TextChunkHelper\\Public\\TextChunkHelper\\ITextChunkHelper.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\TextChunkHelper.12.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\TextChunkHelper\\TextChunkHelper.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\TextChunkHelper.12.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\Types\\PrintWidgetOptions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\Types\\RestoreWidgetOptions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\Utilities\\WidgetPrinterSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\Utilities\\WidgetPrinterUtils.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\WidgetPrinterModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\WidgetPrinterRegistryImpl.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\WidgetPrinters\\InnerWidgetPrinter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Private\\WidgetPrinter\\WidgetPrinters\\WidgetPrinter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\IWidgetPrinterRegistry.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\Types\\OneWayBool.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\Types\\PrintWidgetOptions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\Types\\RestoreWidgetOptions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\Utilities\\CastSlateWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\Utilities\\WidgetPrinterSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\Utilities\\WidgetPrinterUtils.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\WidgetPrinters\\InnerWidgetPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\Public\\WidgetPrinter\\WidgetPrinters\\WidgetPrinter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Plugins\\GraphPrinter\\Source\\WidgetPrinter\\WidgetPrinter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\WidgetPrinter.5.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Source\\FactoryGame\\FactoryGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FactoryGame.1.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Source\\FactoryGame\\FactoryGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FactoryGame.1.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Source\\FactoryGame\\FactoryGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\Projects\\3rdYear\\FYP\\FactoryGame\\.vscode\\compileCommands_FactoryGame\\FactoryGame.1.rsp"
+		],
+		"directory": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Source"
+	}
+]

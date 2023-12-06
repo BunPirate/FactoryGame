@@ -1,0 +1,613 @@
+{
+	"folders": [
+		{
+			"name": "FactoryGame",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Games\\Epic Games Games\\UE_5.3"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"npm.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "FactoryGame Win64 Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Debug",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Debug",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGame Win64 Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Debug",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"DebugGame",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"DebugGame",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGame Win64 DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"DebugGame",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Development",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Development",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGame Win64 Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Development",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Test Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Test",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Test Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Test",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGame Win64 Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Test Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Test",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Shipping Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Shipping",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Shipping Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Shipping",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGame Win64 Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGame Win64 Shipping Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGame",
+					"Win64",
+					"Shipping",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"Debug",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"Debug",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGameEditor Win64 Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"Debug",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"DebugGame",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"DebugGame",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGameEditor Win64 DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"DebugGame",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"Development",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"Development",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"FactoryGameEditor Win64 Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"label": "FactoryGameEditor Win64 Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"FactoryGameEditor",
+					"Win64",
+					"Development",
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			}
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch FactoryGame (Debug)",
+				"request": "launch",
+				"program": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"preLaunchTask": "FactoryGame Win64 Debug Build",
+				"args": [
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch FactoryGame (DebugGame)",
+				"request": "launch",
+				"program": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"preLaunchTask": "FactoryGame Win64 DebugGame Build",
+				"args": [
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch FactoryGame (Development)",
+				"request": "launch",
+				"program": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Binaries\\Win64\\UnrealGame.exe",
+				"preLaunchTask": "FactoryGame Win64 Development Build",
+				"args": [
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch FactoryGame (Test)",
+				"request": "launch",
+				"program": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"preLaunchTask": "FactoryGame Win64 Test Build",
+				"args": [
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch FactoryGame (Shipping)",
+				"request": "launch",
+				"program": "F:\\Projects\\3rdYear\\FYP\\FactoryGame\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"preLaunchTask": "FactoryGame Win64 Shipping Build",
+				"args": [
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch FactoryGameEditor (Debug)",
+				"request": "launch",
+				"program": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+				"preLaunchTask": "FactoryGameEditor Win64 Debug Build",
+				"args": [
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject"
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch FactoryGameEditor (DebugGame)",
+				"request": "launch",
+				"program": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+				"preLaunchTask": "FactoryGameEditor Win64 DebugGame Build",
+				"args": [
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject"
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Launch FactoryGameEditor (Development)",
+				"request": "launch",
+				"program": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+				"preLaunchTask": "FactoryGameEditor Win64 Development Build",
+				"args": [
+					"F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject"
+				],
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3",
+				"stopAtEntry": false,
+				"console": "externalTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"D:\\build\\++UE5\\Sync": "D:\\Games\\Epic Games Games\\UE_5.3"
+				}
+			},
+			{
+				"name": "Generate Project Files",
+				"type": "coreclr",
+				"request": "launch",
+				"preLaunchTask": "UnrealBuildTool Win64 Development Build",
+				"program": "D:\\Games\\Epic Games Games\\UE_5.3\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+				"args": [
+					"-projectfiles",
+					"-vscode",
+					"-project=F:\\Projects\\3rdYear\\FYP\\FactoryGame\\FactoryGame.uproject",
+					"-game",
+					"-engine",
+					"-dotnet"
+				],
+				"console": "externalTerminal",
+				"stopAtEntry": false,
+				"cwd": "D:\\Games\\Epic Games Games\\UE_5.3"
+			}
+		]
+	}
+}

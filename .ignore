@@ -1,0 +1,11 @@
+/.git
+/.vs
+/.vscode
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
+/Script
+/Plugins/FastNoiseGenerator/Documentation
+/Plugins/FastNoiseGenerator/Intermediate
+/Plugins/GraphPrinter/Intermediate
